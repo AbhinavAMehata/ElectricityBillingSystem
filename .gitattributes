@@ -1,2 +1,12 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Ignore compiled class files
+*.class
+
+# Ignore build directories
+bin/
+out/
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore libs folder
+libs/
